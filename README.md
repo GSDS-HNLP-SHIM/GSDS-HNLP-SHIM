@@ -14,15 +14,13 @@ Conversational AI • Tool-Using Agents • User Simulation • Agent Evaluation
   [Your Undergraduate University]
 
 ## 📝 Publications
-### Under Review
-- **Non-Collaborative User Simulation for Evaluating AI Agents**  
-  Modeling realistic user behaviors including impatience, tangential conversations, and incomplete requests  
-  Benchmarks: MultiWOZ, Tau-Bench, ColBench, MINT  
-  [Code](https://github.com/your-lab-repo-link) (if available)
+- **Non-Collaborative User Simulators for Tool Agents**
+[ICLR] The Fourteenth International Conference on Learning Representations, 2026
+**Jeonghoon Shim**, Woojung Song, Cheyon Jin, Seungwon Kook, Yohan Jo
 
-## 🛠️ Open Source Contributions
-- **[MobileWorld](https://github.com/Tongyi-MAI/MobileWorld)** - Task improvements and bug fixes for mobile agent benchmarking
+- **ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models**
+[ICLR] The Thirteenth International Conference on Learning Representations, 2025
+**Jeonghoon Shim**, Gyuhyeon Seo, Cheongsu Lim, Yohan Jo
 
----
 
 💡 *Interested in collaboration or have questions? Feel free to reach out!*
