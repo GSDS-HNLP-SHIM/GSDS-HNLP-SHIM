@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Jeonghoon (Holi) Shim ✨
+# ✨ Jeonghoon Shim ✨
 
 🎓 **Ph.d in Data Science** at Seoul National University (2025~)  
 🎓 **M.S. in Data Science** at Seoul National University (2025)  
