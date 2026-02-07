@@ -19,15 +19,20 @@ Conversational AI • Tool-Using Agents • User Simulation • GUI-Agents
 ## 📝 Publications
 
 <details open>
-<summary><b>Non-Collaborative User Simulators for Tool Agents</b></summary>
+<summary><b><a href="https://arxiv.org/abs/2509.23124">Non-Collaborative User Simulators for Tool Agents</a></b></summary>
 
-**[ICLR 2026]** The Fourteenth International Conference on Learning Representations  
-**Jeonghoon Shim**, Woojung Song, Cheyon Jin, Seungwon Kook, Yohan Jo
+<i>[ICLR] The Fourteenth International Conference on Learning Representations, 2026</i>  
+Jeonghoon Shim, Woojung Song, Cheyon Jin, Seungwon Kook, Yohan Jo
 
 </details>
 
 <details open>
-<summary><b>ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models</b></summary>
+<summary><b><a href="https://arxiv.org/abs/2503.00564">ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models</a></b></summary>
+
+<i>[ICLR] The Thirteenth International Conference on Learning Representations, 2025</i>  
+Jeonghoon Shim, Gyuhyeon Seo, Cheongsu Lim, Yohan Jo
+
+</details>
 
 **[ICLR 2025]** The Thirteenth International Conference on Learning Representations  
 **Jeonghoon Shim**, Gyuhyeon Seo, Cheongsu Lim, Yohan Jo
