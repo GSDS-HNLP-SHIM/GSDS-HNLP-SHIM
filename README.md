@@ -1,4 +1,4 @@
-Jeonghoon Shim
+# Jeonghoon Shim
 
 🎓 **Graduate Student Researcher** @ Seoul National University  
 🔬 Graduate School of Data Science  
