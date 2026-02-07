@@ -13,7 +13,7 @@
 ---
 
 ## 🎯 Research Interests
-Conversational AI • Tool-Using Agents • User Simulation • GUI-Agents
+Conversational AI • Tool-Using Agents • User Simulation • Mobile-Agents
 
 ## 📝 Publications
 
