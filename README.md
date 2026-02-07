@@ -34,10 +34,5 @@ Jeonghoon Shim, Gyuhyeon Seo, Cheongsu Lim, Yohan Jo
 
 </details>
 
-**[ICLR 2025]** The Thirteenth International Conference on Learning Representations  
-**Jeonghoon Shim**, Gyuhyeon Seo, Cheongsu Lim, Yohan Jo
-
-</details>
-
 
 💡 *Interested in collaboration or have questions? Feel free to reach out!*
