@@ -1,11 +1,19 @@
-# Jeonghoon Shim
+<div align="center">
 
-🎓 **Graduate Student Researcher** @ Seoul National University  
-🔬 Graduate School of Data Science  
+# ✨ Jeonghoon (Holi) Shim ✨
+
+🎓 **M.S. in Data Science** at Seoul National University (2024 ~ )  
+🎓 **B.S. in [Your Major]** at [Your University] (졸업년도)
+
 📧 jhshim98@snu.ac.kr
 
+</div>
+
+
+--
+
 ## 🎯 Research Interests
-Conversational AI • Tool-Using Agents • User Simulation • Agent Evaluation
+Conversational AI • Tool-Using Agents • User Simulation • GUI-Agents
 
 ## 📚 Education
 - **M.S. in Data Science** (Expected)  
@@ -15,7 +23,7 @@ Conversational AI • Tool-Using Agents • User Simulation • Agent Evaluation
 
 ## 📝 Publications
 
-<details>
+<details open>
 <summary><b>Non-Collaborative User Simulators for Tool Agents</b></summary>
 
 **[ICLR 2026]** The Fourteenth International Conference on Learning Representations  
@@ -23,7 +31,7 @@ Conversational AI • Tool-Using Agents • User Simulation • Agent Evaluation
 
 </details>
 
-<details>
+<details open>
 <summary><b>ToolDial: Multi-turn Dialogue Generation Method for Tool-Augmented Language Models</b></summary>
 
 **[ICLR 2025]** The Thirteenth International Conference on Learning Representations  
