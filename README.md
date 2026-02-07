@@ -2,8 +2,9 @@
 
 # ✨ Jeonghoon (Holi) Shim ✨
 
-🎓 **M.S. in Data Science** at Seoul National University (2024 ~ )  
-🎓 **B.S. in [Your Major]** at [Your University] (졸업년도)
+🎓 **Ph.d in Data Science** at Seoul National University (2025~)  
+🎓 **M.S. in Data Science** at Seoul National University (2025)  
+🎓 **B.S. in Urban-Planning and Engineering** at Hanyang University (2023)
 
 📧 jhshim98@snu.ac.kr
 
@@ -14,12 +15,6 @@
 
 ## 🎯 Research Interests
 Conversational AI • Tool-Using Agents • User Simulation • GUI-Agents
-
-## 📚 Education
-- **M.S. in Data Science** (Expected)  
-  Seoul National University, South Korea
-- **B.S. in [Your Undergraduate Major]**  
-  [Your Undergraduate University]
 
 ## 📝 Publications
 
