@@ -33,6 +33,3 @@ Jeonghoon Shim, Woojung Song, Cheyon Jin, Seungwon Kook, Yohan Jo
 Jeonghoon Shim, Gyuhyeon Seo, Cheongsu Lim, Yohan Jo
 
 </details>
-
-
-💡 *Interested in collaboration or have questions? Feel free to reach out!*
