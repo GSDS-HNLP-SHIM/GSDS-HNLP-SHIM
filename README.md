@@ -3,7 +3,7 @@
 # ✨ Jeonghoon Shim ✨
 
 🎓 **Ph.d in Data Science** at Seoul National University (2025~)  
-🎓 **M.S. in Data Science** at Seoul National University 
+🎓 **M.S. in Data Science** at Seoul National University  
 🎓 **B.S. in Urban-Planning and Engineering** at Hanyang University
 
 📧 jhshim98@snu.ac.kr
