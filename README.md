@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Jeonghoon Shim
 
-<!--
-**GSDS-HNLP-SHIM/GSDS-HNLP-SHIM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduate Student Researcher** @ Seoul National University  
+🔬 Graduate School of Data Science  
+📧 jhshim98@snu.ac.kr
 
-Here are some ideas to get you started:
+## 🎯 Research Interests
+Conversational AI • Tool-Using Agents • User Simulation • Agent Evaluation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Education
+- **M.S. in Data Science** (Expected)  
+  Seoul National University, South Korea
+- **B.S. in [Your Undergraduate Major]**  
+  [Your Undergraduate University]
+
+## 📝 Publications
+### Under Review
+- **Non-Collaborative User Simulation for Evaluating AI Agents**  
+  Modeling realistic user behaviors including impatience, tangential conversations, and incomplete requests  
+  Benchmarks: MultiWOZ, Tau-Bench, ColBench, MINT  
+  [Code](https://github.com/your-lab-repo-link) (if available)
+
+## 🛠️ Open Source Contributions
+- **[MobileWorld](https://github.com/Tongyi-MAI/MobileWorld)** - Task improvements and bug fixes for mobile agent benchmarking
+
+---
+
+💡 *Interested in collaboration or have questions? Feel free to reach out!*
